@@ -1,0 +1,24 @@
+#h{
+    position: relative;
+    bottom: 335px;
+   padding:12px;
+    right: -310px;;
+}
+.news{
+    position: relative;
+    bottom: -116px;
+   
+   
+}
+#browse{
+    position: relative;
+   top:-340px;
+   left: 460px;
+}
+#h1{
+    position: relative;
+   left:-90px;
+}
+body{
+    overflow-x: hidden;
+}

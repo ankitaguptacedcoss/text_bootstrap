@@ -1,24 +1,48 @@
-#h{
-    position: relative;
-    bottom: 335px;
-   padding:12px;
-    right: -310px;;
+#h {
+  position: relative;
+  bottom: 335px;
+  padding: 12px;
+  right: -220px;
 }
-.news{
-    position: relative;
-    bottom: -116px;
-   
-   
+.news {
+  position: relative;
+  bottom: -116px;
 }
-#browse{
-    position: relative;
-   top:-340px;
-   left: 460px;
+#browse {
+  position: relative;
+  top: -340px;
+  left: 460px;
 }
-#h1{
-    position: relative;
-   left:-90px;
+#h1 {
+  position: relative;
+  left: -90px;
 }
-body{
-    overflow-x: hidden;
+body {
+  overflow-x: hidden;
+}
+
+@media only screen and (max-width: 600px ) {
+  #media {
+    position: relative;
+    top: -20px;
+    left: -170px;
+  }
+  #media1 {
+    position: relative;
+    top: 30px;
+    left: -120px;
+  }
+  #media2 {
+    position: relative;
+    top: -15px;
+    left: -10px;
+  }
+  #media4 {
+    position: relative;
+    top: 75px;
+    left: -210px;
+  }
+  #media5 {
+    padding-bottom: 90px;
+  }
 }
